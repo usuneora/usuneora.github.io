@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://usuneora.github.io/Ofk/sitemap_index.txt
+Sitemap: https://usuneora.github.io/cmv/sitemap_index.txt
+Sitemap: https://usuneora.github.io/cty/sitemap_index.txt
+Sitemap: https://usuneora.github.io/iVd/sitemap_index.txt
